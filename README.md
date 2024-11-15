@@ -1,2 +1,2 @@
-# smart-glass
+# Smart Glass
 Smart Glass
